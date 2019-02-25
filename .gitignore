@@ -1,0 +1,3 @@
+/node_modules/
+*.pyc
+/woocPy/api_key.py
